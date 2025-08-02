@@ -1,39 +1,45 @@
-<h2> Hey there! I'm Vishant <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🔭 &nbsp; I’m currently learning Cybersecurity and Full Stack Development  
-- 🤔 &nbsp; Exploring secure coding, system vulnerabilities, and scalable web app design  
-- 🎓 &nbsp; B.Tech CSE Student | Passionate about Systems, Security, and Software  
-- 💼 &nbsp; Full Stack Developer (React, Node.js, MongoDB)  
-- 🌱 &nbsp; Focused on building secure systems, exploring SOC, OWASP, and Linux tools  
-- ✍️ &nbsp; Building projects, writing clean code, and staying up-to-date with tech trends  
-- ☕ &nbsp; Strong coffee + Dark terminal themes = Productive vibes ☕
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; JavaScript | Python | C | Java | Bash  
-- 🌐 &nbsp; React | Node.js | Express | HTML | CSS | MongoDB | REST APIs  
-- 🛢 &nbsp; MySQL | Firebase | MongoDB  
-- 🔧 &nbsp; VS Code | Git | Postman | Linux | Wireshark | Nmap | Burp Suite  
-- 🖥 &nbsp; Figma | Canva | Adobe XD (basic)  
-
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishant-chaudhary31&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Vishant's GitHub Stats">
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishant-chaudhary31&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/vishant-chaudhary31/github-readme-stats)
-
-<h3> 🤝🏻 Connect with Me </h3>
+<h1 align="center">Hey 👋, I'm Vishant Chaudhary</h1>
 
 <p align="center">
-&nbsp; <a href="https://x.com/Vishant0507" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/vishantchaudharyy/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/vishant-chaudhary-c-s" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:vishantkumar3105@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+  🚀 Full Stack Developer • 🛡️ Cybersecurity Enthusiast • 👨‍💻 SOC Tools Explorer
 </p>
 
-⭐️ From [Vishant Chaudhary](https://github.com/vishant-chaudhary31)
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Final year CS student | Passionate about secure applications
+- 💻 I build full-stack web apps using **React**, **Node.js**, **MongoDB**
+- 🧠 Currently learning **Linux**, **SIEM**, **Networking**, and **OWASP Top 10**
+- 🔭 Working on: [VulnerableApp-for-Learning](#)
+
+---
+
+### 🛠 Tech Stack
+
+| Domain | Tools |
+|--------|-------|
+| Frontend | ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5) |
+| Backend | ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js) ![Express](https://img.shields.io/badge/-Express-gray?style=flat&logo=express) |
+| Database | ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb) |
+| Cybersecurity | ![Linux](https://img.shields.io/badge/-Linux-772953?style=flat&logo=linux) ![Wireshark](https://img.shields.io/badge/-Wireshark-0059b3?style=flat&logo=wireshark) |
+| Tools | ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat&logo=visual-studio-code) |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishant-chaudhary&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishant-chaudhary&theme=tokyonight" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vishant-chaudhary)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/vishant-chaudhary)
+
+---
