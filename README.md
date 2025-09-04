@@ -1,39 +1,37 @@
 <h2> Hey there! I'm Vishant <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
+💻 **Full Stack Developer** | 🔐 **Cybersecurity Learner**  
+I’m passionate about building secure, scalable applications and exploring the world of cybersecurity (SOC, OWASP, Bug Bounty).  
 
-- 🔭 &nbsp; I’m currently learning Cybersecurity and Full Stack Development  
-- 🤔 &nbsp; Exploring secure coding, system vulnerabilities, and scalable web app design  
-- 🎓 &nbsp; B.Tech CSE Student | Passionate about Systems, Security, and Software  
-- 💼 &nbsp; Full Stack Developer (React, Node.js, MongoDB)  
-- 🌱 &nbsp; Focused on building secure systems, exploring SOC, OWASP, and Linux tools  
-- ✍️ &nbsp; Building projects, writing clean code, and staying up-to-date with tech trends  
-- ☕ &nbsp; Strong coffee + Dark terminal themes = Productive vibes ☕
+---
 
-<h3>🛠 Tech Stack</h3>
+## 🚀 About Me
+- 🎓 B.Tech in Computer Science (3rd Year)  
+- 💡 Currently learning **React, Node.js, Networking, and SOC tools**  
+- 🌱 Exploring **bug bounty basics** and **secure coding practices**  
+- 🎯 Goal: Contribute to open-source & land my first dev/cybersecurity role  
 
-- 💻 &nbsp; JavaScript | Python | C | Java | Bash  
-- 🌐 &nbsp; React | Node.js | Express | HTML | CSS | MongoDB | REST APIs  
-- 🛢 &nbsp; MySQL | Firebase | MongoDB  
-- 🔧 &nbsp; VS Code | Git | Postman | Linux | Wireshark | Nmap | Burp Suite  
-- 🖥 &nbsp; Figma | Canva | Adobe XD (basic)  
+---
 
-<br>
+## 🛠 Tech Stack
+**Languages**: JavaScript, Python, Java, C  
+**Frontend**: React, Next.js (basic), HTML5, CSS3, Bootstrap  
+**Backend**: Node.js, Express.js  
+**Databases**: MongoDB, MySQL, MS SQL  
+**Cybersecurity**: Linux, Networking, OWASP Top 10, SIEM (basic), TryHackMe labs  
+**Tools**: Git, GitHub, Docker (basic), Postman  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishant-chaudhary31&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Vishant's GitHub Stats">
+---
 
-</br>
+## 📊 GitHub Stats
+![Vishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishant-chaudhary31&show_icons=true&theme=tokyonight)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishant-chaudhary31&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/vishant-chaudhary31/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishant-chaudhary31&layout=compact&theme=tokyonight)  
 
-<h3> 🤝🏻 Connect with Me </h3>
+---
 
-<p align="center">
-&nbsp; <a href="https://x.com/Vishant0507" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/vishantchaudharyy/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/vishant-chaudhary-c-s" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:vishantkumar3105@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/vishant--chaudhary)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/vishant-chaudhary31)  
 
-⭐️ From [Vishant Chaudhary](https://github.com/vishant-chaudhary31)
