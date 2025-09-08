@@ -8,10 +8,10 @@ I’m passionate about building secure, scalable applications and exploring the 
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech CSE (3rd Year)  
+- 🎓 B.Tech CSE (Final Year)  
 - 💡 Learning **React, Node.js, Networking, and SOC tools**  
 - 🌱 Exploring **Bug Bounty basics** & **secure coding practices**  
-- 🎯 Goal: Land my first **Full Stack / Cybersecurity role** and contribute to open-source  
+- 🎯 Goal: Land my first **Full Stack dev** and contribute to open-source  
 
 ---
 
