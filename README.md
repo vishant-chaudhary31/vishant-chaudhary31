@@ -1,17 +1,21 @@
 <h2> Hey there! I'm Vishant <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<img align="right" alt="Coding GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420"/>
+💻 **Full Stack Developer** | 🌐 **Web Development** | 🔐 **Cybersecurity Learner**  
 
-💻 **Full Stack Developer** | 🔐 **Cybersecurity Enthusiast** | **Web Development** 
 I’m passionate about building secure, scalable applications and exploring the world of **SOC, OWASP, and Bug Bounty**.  
 
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech CSE (Final Year)  
-- 💡 Learning **React, Node.js, Networking, and SOC tools**  
-- 🌱 Exploring **Bug Bounty basics** & **secure coding practices**  
-- 🎯 Goal: Land my first **Full Stack Dev** and contribute to open-source. 
+<p align="center">
+  <img alt="Coding GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+</p>
+
+- 🎓 Final Year **B.Tech CSE Student**  
+- 💡 Main focus on **Full Stack Development** and **Modern Web Applications**  
+- 🌱 Exploring **secure coding practices** & **bug bounty basics**  
+- 🛠 Actively improving skills in **React, Node.js, Databases, and Cloud tools**  
+- 🎯 Goal: Contribute to open-source, build impactful projects, and start my journey as a **Full Stack Developer**  
 
 ---
 
@@ -33,8 +37,14 @@ I’m passionate about building secure, scalable applications and exploring the 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishant--chaudhary)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/im-vishu)  
+<p align="center">
+  <a href="https://linkedin.com/in/vishant--chaudhary">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/im-vishu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 ✨ *Always curious, always building, always securing.*  
