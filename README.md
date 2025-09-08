@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420"/>
 
-💻 **Full Stack Developer** | 🔐 **Cybersecurity Enthusiast**  
+💻 **Full Stack Developer** | 🔐 **Cybersecurity Enthusiast** | **Web Development** 
 I’m passionate about building secure, scalable applications and exploring the world of **SOC, OWASP, and Bug Bounty**.  
 
 ---
@@ -11,7 +11,7 @@ I’m passionate about building secure, scalable applications and exploring the 
 - 🎓 B.Tech CSE (Final Year)  
 - 💡 Learning **React, Node.js, Networking, and SOC tools**  
 - 🌱 Exploring **Bug Bounty basics** & **secure coding practices**  
-- 🎯 Goal: Land my first **Full Stack dev** and contribute to open-source  
+- 🎯 Goal: Land my first **Full Stack Dev** and contribute to open-source  
 
 ---
 
@@ -33,9 +33,8 @@ I’m passionate about building secure, scalable applications and exploring the 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/vishant--chaudhary)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/im-vishu)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishant--chaudhary)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/im-vishu)  
 
 ---
 ✨ *Always curious, always building, always securing.*  
